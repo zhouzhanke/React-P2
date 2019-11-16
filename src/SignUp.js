@@ -60,7 +60,7 @@ function SignUp() {
             注册
           </Typography>
           <Typography variant="body2" align="center">
-            <Link href="" underline="always">
+            <Link href="/SignIn" underline="always">
               已注册？
             </Link>
           </Typography>

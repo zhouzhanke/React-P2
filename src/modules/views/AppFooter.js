@@ -92,16 +92,16 @@ export default function AppFooter() {
                   <img
                     src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1573812415&di=70b9ccf7f2658e56156e84c038ef6d9b&src=http://img5.pcpop.com/ArticleImages/0x0/1/1225/001225661.jpg"
                     alt="QQ"
-                    height="64"
-                    width="64"
+                    height="48"
+                    width="48"
                   />
                 </a>
                 <a href="https://weixin.qq.com/" className={classes.icon}>
                   <img
                     src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574410557&di=da2ff0a8e475d7a5cd798a821817f6ca&imgtype=jpg&er=1&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Ff89a35d2617c0c2b83f9c6149021b383cd6b977730fa-Al3vpM_fw658"
                     alt="微信"
-                    height="64"
-                    width="64"
+                    height="48"
+                    width="48"
                   />
                 </a>
               </Grid>
@@ -114,10 +114,10 @@ export default function AppFooter() {
             </Typography>
             <ul className={classes.list}>
               <li className={classes.listItem}>
-                <Link href="./home">链接1</Link>
+                <Link href="">链接1</Link>
               </li>
               <li className={classes.listItem}>
-                <Link href="./home">链接2</Link>
+                <Link href="">链接2</Link>
               </li>
             </ul>
           </Grid>

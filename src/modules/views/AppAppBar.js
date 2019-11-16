@@ -67,8 +67,8 @@ function AppAppBar(props) {
               variant="outlined"
               color="inherit"
               className={classes.button}
-              disabled
-              href="https://csb-dnhos-8hshv6o3s.now.sh/page1"
+              // disabled
+              href="/SignIn"
             >
               登录
             </Button>
